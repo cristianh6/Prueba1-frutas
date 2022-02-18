@@ -1,3 +1,3 @@
-let autos = ["Volkswagen", "Mercedes", "Renault"]
+let autos = ["Volkswagen", "Mercedes", "Renault", "Hyundai", "Peugeot", "Tesla"]
 
 console.log(autos)
