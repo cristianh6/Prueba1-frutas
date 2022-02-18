@@ -1,7 +1,8 @@
 let autos = ["Volkswagen", "Mercedes", "Renault"]
-            ["Renault", "Lexus", "Ford"]
-let autos = ["Volkswagen", "Mercedes", "Renault", "Hyundai", "Peugeot", "Tesla"]
+
+let autos2 = ["Hyundai", "Peugeot", "Tesla"]
 
 console.log(autos)
 
-console.log("alsdkasñd")
+console.log(autos2)
+
